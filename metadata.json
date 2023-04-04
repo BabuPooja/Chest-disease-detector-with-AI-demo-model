@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2023-04-03T05:12:32.484Z","userMetadata":{},"modelName":"Chest Disease detection model using AI","labels":["Healthy","COVID-19","Viral Pneumonia","Bacterial"],"imageSize":224}
